@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I know **C++, DSA**
+### Welcome folks !! 👋
+My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. Also am a Google Crowdsource Influencer and I have tremendous love for hackathons and communities. 
 
 <!--
 **mrunankpawar/mrunankpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
