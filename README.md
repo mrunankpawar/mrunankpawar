@@ -3,7 +3,7 @@ My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google
 
 __My areas of interest are Artificial Intelligence, Machine Learning and Cloud Computing.__
 
-<a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank"><img src="LinkedIn.png" alt="LinkedIn"> </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar)](https://git.io/streak-stats)
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <a href="https://www.linkedin.com/in/mrunankpawar/">LinkedIn</a>
 -->
+![LinkedIn](https://user-images.githubusercontent.com/65391854/116841508-12771d00-abf7-11eb-96e9-749fb5c480b1.png)
