@@ -4,9 +4,9 @@ My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google
 __My areas of interest are Artificial Intelligence, Machine Learning and Cloud Computing.__
 
 
-<href> https://www.linkedin.com/in/mrunankpawar/ </href>
+<a href="https://www.linkedin.com/in/mrunankpawar/">LinkedIn</a>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar)](https://git.io/streak-stats)
 
 <!--
 **mrunankpawar/mrunankpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: **He/His/Him**
 - ⚡ Fun fact: ...
+- <a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank">LinkedIn</a>
 -->
