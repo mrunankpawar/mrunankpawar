@@ -7,5 +7,10 @@ __My areas of interest are Artificial Intelligence, Machine Learning and Cloud C
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&theme=radical)](https://git.io/streak-stats)
 
+![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
+
+<!--
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mrunankpawar}/count.svg" /></p> 
+-->
+
