@@ -5,4 +5,7 @@ __My areas of interest are Artificial Intelligence, Machine Learning and Cloud C
 
 <a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&theme=radical)](https://git.io/streak-stats)
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mrunankpawar}/count.svg" /></p> 
