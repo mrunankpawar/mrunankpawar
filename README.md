@@ -1,5 +1,5 @@
 ### Welcome folks !! 👋
-My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google Crowdsource Influencer and I have tremendous love for hackathons and communities.
+My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google Crowdsource Influencer and I have tremendous love for hackathons and communities. 
 
 __My areas of interest are Artificial Intelligence, Machine Learning and Cloud Computing.__
 
@@ -13,4 +13,6 @@ __My areas of interest are Artificial Intelligence, Machine Learning and Cloud C
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mrunankpawar}/count.svg" /></p> 
 -->
+
+  ![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&theme=radical)
 
