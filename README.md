@@ -1,11 +1,16 @@
 # <p align="center"> Welcome folks !! 👋 </p>
 
 <p align="center">
-<img src="https://github.com/mrunankpawar/mrunankpawar/blob/main/header.PNG">
+<img src="https://github.com/mrunankpawar/mrunankpawar/blob/main/LinkedIn%20Banner%20(1).png">
  </p>
-My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google Crowdsource Influencer and I have tremendous love for hackathons and communities. 
+ 
+ <br>
+ 
+
+###  <p align="justify">My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google Crowdsource Influencer and I have tremendous love for hackathons and communities.  </p>
 
 __My areas of interest are Artificial Intelligence, Machine Learning and Cloud Computing.__
+
 
 ## Currently on a #100DaysOfCode Challenge
 
