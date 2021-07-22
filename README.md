@@ -22,4 +22,6 @@ __My areas of interest are Artificial Intelligence, Machine Learning and Cloud C
 
 ![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
 
- 
+ <hr>
+
+<img alt="Instagram" src="https://img.shields.io/badge/mrunank_pawar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
