@@ -24,4 +24,7 @@ __My areas of interest are Artificial Intelligence, Machine Learning and Cloud C
 
  <hr>
 
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="Twitter" src="https://img.shields.io/badge/MrunankPawar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="YouTube" src="https://img.shields.io/badge/Mrunank Pawar-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 <img alt="Instagram" src="https://img.shields.io/badge/mrunank_pawar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
