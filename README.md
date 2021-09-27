@@ -12,9 +12,6 @@
 __My areas of interest are Artificial Intelligence, Machine Learning and Cloud Computing.__
 
 
-
-## Currently on a #100DaysOfCode Challenge
-
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
