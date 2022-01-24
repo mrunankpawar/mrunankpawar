@@ -9,7 +9,14 @@
 
 ###  <p align="justify">My name is Mrunank Pawar, I'm a junior computer engineering student. </p>
 
-__Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Computing | Data Science.__
+<ul>
+ <li>Founder and Lead at Hack Club TechBrewers</li>
+ <li>Organizer Azure Developer Community, Pune</li>
+ <li>Spark AR CA</li>
+ <li>Google Crowdsource Influencer</li>  
+</ul> 
+
+Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Computing | Data Science.
 
 
 <hr>
