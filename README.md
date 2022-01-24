@@ -1,7 +1,7 @@
 # <p align="center"> Welcome folks !! 👋 </p>
 
 <p align="center">
-<img src="https://github.com/mrunankpawar/mrunankpawar/blob/main/LinkedIn%20Banner%20(1).png">
+<img src="https://twitter.com/MrunankPawar/header_photo">
  </p>
  
  <br>
