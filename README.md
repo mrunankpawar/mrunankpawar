@@ -7,7 +7,7 @@
  <br>
  
 
-###  <p align="justify">My name is Mrunank Pawar, I'm an engineering student at SKNCOE, Pune. I'm Google Crowdsource Influencer and I have tremendous love for hackathons and communities.  </p>
+###  <p align="justify">My name is Mrunank Pawar, I'm a junior computer engineering student. </p>
 
 __My areas of interest are Artificial Intelligence, Machine Learning, AR/VR and Cloud Computing.__
 
