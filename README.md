@@ -9,7 +9,7 @@
 
 ###  <p align="justify">My name is Mrunank Pawar, I'm a junior computer engineering student. </p>
 
-__My areas of interest are Artificial Intelligence, Machine Learning, AR/VR and Cloud Computing.__
+__Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Computing | Data Science.__
 
 
 <hr>
