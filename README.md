@@ -1,7 +1,7 @@
 # <p align="center"> Welcome folks !! 👋 </p>
 
 <p align="center">
-<img src="https://github.com/mrunankpawar/mrunankpawar/blob/main/Copy%20of%20Copy%20of%20Youtube%20Header%20final%20(2).png?raw=true">
+<img src="https://github.com/mrunankpawar/mrunankpawar/blob/main/Copy%20of%20Copy%20of%20Youtube%20Header%20final%20(2).jpg?raw=true">
  </p>
  
  <br>
