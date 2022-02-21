@@ -37,10 +37,10 @@ Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Com
 
 ![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&theme=radical)
 
-![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
-
  <img src="https://activity-graph.herokuapp.com/graph?username=mrunankpawar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
- </p>
+ 
+ ![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
+ 
 
 
 
