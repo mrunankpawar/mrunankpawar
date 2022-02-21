@@ -7,7 +7,7 @@
  <br>
  
 
-###  <p align="justify">My name is Mrunank Pawar, I'm a junior computer engineering student. </p>
+<!-- ###  <p align="justify">My name is Mrunank Pawar, I'm a junior computer engineering student. </p> -->
 
 <ul>
  <li>Founder and Lead at Hack Club TechBrewers</li>
@@ -20,6 +20,7 @@
 Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Computing | Data Science.
 
 
+
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,7 +30,7 @@ Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Com
 <a href="https://www.instagram.com/mrunank_pawar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/mrunank_pawar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
   
-  <hr>
+ <hr>
   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&theme=radical)](https://git.io/streak-stats) 
@@ -37,5 +38,10 @@ Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Com
 ![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&theme=radical)
 
 ![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&)"><img src="https://activity-graph.herokuapp.com/graph?username=mrunankpawar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ </p>
+
+
 
  
