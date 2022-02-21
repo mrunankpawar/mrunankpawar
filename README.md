@@ -39,7 +39,7 @@ Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Com
 
 ![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&)"><img src="https://activity-graph.herokuapp.com/graph?username=mrunankpawar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=mrunankpawar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  </p>
 
 
