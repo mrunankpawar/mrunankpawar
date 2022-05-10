@@ -14,7 +14,7 @@
  <li>Organizer Azure Developer Community, Pune</li>
  <li>Spark AR CA</li>
  <li>Google Crowdsource Influencer</li>  
- <li>Community Champ at SAWO Labs</li>
+ <li>AngelHack Student Ambassador</li>
 </ul> 
 
 Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Computing | Data Science.
