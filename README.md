@@ -1,58 +1,36 @@
-# <p align="center"> Hey folks !! </p>
+Hi, my name is Mrunank Pawar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=====================================================================================================================================
 
-<p align="center">
-<img src="https://github.com/mrunankpawar/mrunankpawar/blob/main/Copy%20of%20Copy%20of%20Youtube%20Header%20final%20(2).jpg?raw=true">
- </p>
- 
- <br>
- 
+I'm a final-year student pursuing Bachelor's degree in Computer Engineering from SPPU. I have been developing social AR effects using Spark AR for over a year now and am very close to receiving 500k overall insights on my effects. Also, I have been working on improving my Python skills. I have been part of various hackathons and communities!
 
-<!-- ###  <p align="justify">My name is Mrunank Pawar, I'm a junior computer engineering student. </p> -->
+* 🌍  I'm based in Pune, India
+* ✉️  You can contact me at [mrunankpawar05@gmail.com](mailto:mrunankpawar05@gmail.com)
+* 🚀  I'm currently working on [Hack Club TechBrewers](http://techbrewers.hackclub.com)
+* 🧠  I'm learning Python, Lens Studio
+* ⚡  I have been a black belt in Taekwondo and also love to do sketching.
 
-<ul>
- <li>Founder and Lead at Hack Club TechBrewers</li>
- <li>Organizer Azure Developer Community, Pune</li>
- <li>Spark AR CA</li>
- <li>Google Crowdsource Influencer</li>  
- <li>AngelHack Student Ambassador</li>
-</ul> 
-
-Area of Interest: Artificial Intelligence | Machine Learning | AR/VR | Cloud Computing | Data Science.
-
-<hr>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
- </p>
+### Skills
 
 
-<hr>
-<p align="center">
-<a href="https://www.linkedin.com/in/mrunankpawar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://www.youtube.com/channel/UCak8xLVbDi-_OGozZL3qpwQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Mrunank Pawar-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href="https://github.com/mrunankpawar"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/MrunankPawar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/MrunankPawar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/mrunank_pawar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/mrunank_pawar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-  
- <hr>
-  
-<!-- <img src="https://img.shields.io/github/followers/mrunankpawar.svg?style=social&label=Follow&maxAge=2592000"> -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&theme=radical)](https://git.io/streak-stats) 
-
-![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&theme=radical)
-
- <img src="https://activity-graph.herokuapp.com/graph?username=mrunankpawar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
- 
- ![Visits Badge](https://badges.pufler.dev/visits/mrunankpawar/mrunankpawar)
- 
 
 
+### Socials
 
- 
+<p align="left"> <a href="https://www.dev.to/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mrunank_pawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrunankPawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mrunankpawar"><img src="https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mrunankpawar's GitHub stats" /></a>
+
+<a href="http://www.github.com/mrunankpawar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
