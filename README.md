@@ -1,4 +1,4 @@
-Hi, my name is Mrunank Pawar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hey, my name is Mrunank Pawar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 ![](https://pbs.twimg.com/profile_banners/1134119948089942017/1652273901/1500x500)
 I'm a final-year student pursuing Bachelor's degree in Computer Engineering from SPPU. I have been developing social AR effects using Spark AR for over a year now and am very close to receiving 500k overall insights on my effects. Also, I have been working on improving my Python skills. I have been part of various hackathons and communities!
