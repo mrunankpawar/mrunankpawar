@@ -9,6 +9,8 @@ I'm a final-year student pursuing Bachelor's degree in Computer Engineering from
 * 🧠  I'm learning Python, Lens Studio
 * ⚡  I have been a black belt in Taekwondo and also love to do sketching.
 
+[![@mrunankpawar's Holopin board](https://holopin.me/mrunankpawar)](https://holopin.io/@mrunankpawar)
+
 ### Skills
 
 
@@ -21,6 +23,7 @@ I'm a final-year student pursuing Bachelor's degree in Computer Engineering from
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
 
 
 ### Socials
