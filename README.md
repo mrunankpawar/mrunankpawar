@@ -23,6 +23,7 @@ I'm a final-year student pursuing Bachelor's degree in Computer Engineering from
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/mrunank)](https://peerlist.io/mrunank)
 
 </p>
 
