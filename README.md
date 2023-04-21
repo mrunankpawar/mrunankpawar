@@ -1,6 +1,6 @@
 Hey, my name is Mrunank Pawar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
-![](https://pbs.twimg.com/profile_banners/1134119948089942017/1652273901/1500x500)
+<!-- ![](https://pbs.twimg.com/profile_banners/1134119948089942017/1652273901/1500x500) -->
 I'm a final-year student pursuing Bachelor's degree in Computer Engineering from SPPU. I have been developing social AR effects using Meta Spark for over a year now and have crossed 1 million overall insights on my social AR effects. Also, I have been working on improving my Python skills. I have been part of various hackathons and communities!
 
 * 🌍  I'm based in Pune, India
