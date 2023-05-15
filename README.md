@@ -5,7 +5,7 @@ I'm a final-year student pursuing Bachelor's degree in Computer Engineering from
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [mrunankpawar05@gmail.com](mailto:mrunankpawar05@gmail.com)
-* 🚀  I'm currently working on [Club TechBrewers](http://techbrewers.hackclub.com)
+* 🚀  I'm currently working on [Club TechBrewers](http://techbrewers.org)
 * 🧠  I'm learning Python, Lens Studio
 * ⚡  I have been a black belt in Taekwondo and also love to do sketching.
 
