@@ -6,7 +6,8 @@ I'm a Masters Student in Computer Science at Santa Clara University. I have been
 * 🌍  I'm based in Santa Clara, USA
 * ✉️  You can contact me at [mrunankpawar05@gmail.com](mailto:mrunankpawar05@gmail.com)
 * 🚀  I'm currently working on [Club TechBrewers](http://techbrewers.org)
-* 🧠  I'm learning Python, Lens Studio
+* 💻  I work on Python
+* 🧠  I'm learning ReactJS, and AWS
 * ⚡  I have been a black belt in Taekwondo and also love to do sketching.
 
 [![@mrunankpawar's Holopin board](https://holopin.me/mrunankpawar)](https://holopin.io/@mrunankpawar)
@@ -30,8 +31,7 @@ I'm a Masters Student in Computer Science at Santa Clara University. I have been
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mrunank_pawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrunankPawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+<a href="https://www.github.com/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mrunank_pawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrunankpawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrunankPawar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 [![Peerlist](https://github-readme-badge.peerlist.io/api/mrunank)](https://peerlist.io/mrunank)
 
 ### Badges
@@ -41,6 +41,4 @@ I'm a Masters Student in Computer Science at Santa Clara University. I have been
 <a href="http://www.github.com/mrunankpawar"><img src="https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mrunankpawar's GitHub stats" /></a>
 
 <a href="http://www.github.com/mrunankpawar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunankpawar&label=Profile%20views&color=0e75b6&style=flat" alt="mrunankpawar"
 
