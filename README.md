@@ -7,8 +7,8 @@ I'm a Masters Student in Computer Science at Santa Clara University. I have been
 * ✉️  You can contact me at [mrunankpawar05@gmail.com](mailto:mrunankpawar05@gmail.com)
 * 🚀  I'm currently working on [Club TechBrewers](http://techbrewers.org)
 * 💻  I work on Python
-* 🧠  I'm learning ReactJS, and AWS
-* ⚡  I have been a black belt in Taekwondo and also love to do sketching.
+* 🧠  I'm learning NextJs and AWS
+* ⚡  I have been a black belt in Taekwondo and love sketching.
 
 [![@mrunankpawar's Holopin board](https://holopin.me/mrunankpawar)](https://holopin.io/@mrunankpawar)
 
