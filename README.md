@@ -5,7 +5,7 @@ I'm a Masters Student in Computer Science at Santa Clara University. I have been
 
 * 🌍  I'm based in Santa Clara, USA
 * ✉️  You can contact me at [mrunankpawar05@gmail.com](mailto:mrunankpawar05@gmail.com)
-* 🚀  I'm currently building [Club TechBrewers](http://techbrewers.org)
+* 🚀  I'm currently building [TechThrusters](http://techthrusters.org)
 * 💻  I work on Python
 * 🧠  I'm learning NextJs and AWS
 * ⚡  I have been a black belt in Taekwondo and love sketching.
