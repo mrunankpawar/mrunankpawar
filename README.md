@@ -1,8 +1,8 @@
 # Mrunank Pawar
 
-Hi there 👋 I’m a Computer Science graduate student at **Santa Clara University**, currently working at **Descope** as a **DevRel Engineer** to enhance developer experience through robust SDKs, sample apps and documentation.
+Hi, I’m a Computer Science graduate student at **Santa Clara University**, currently working at **Descope** as a **DevRel Engineer** to enhance developer experience through robust SDKs, sample apps and documentation.
 
-Over the past few years, I’ve developed a variety of **social AR experiences** using Meta Spark, reaching over **5 million views** globally. Outside of work, I actively contribute to hackathons, volunteering at **GDG Silicon Valley**, contributing as a **GitHub Campus Expert** lead a developer community called **[TechThrusters](http://techthrusters.org)**.
+Over the past few years, I’ve developed a variety of **social AR experiences** using Meta Spark, reaching over **5 million views** globally. Outside of work, I actively contribute to hackathons, volunteering at **GDG Silicon Valley**, contributing as a **GitHub Campus Expert** and leading a developer community called **[TechThrusters](http://techthrusters.org)**.
 
 ---
 
@@ -24,8 +24,6 @@ Over the past few years, I’ve developed a variety of **social AR experiences**
   <a href="https://www.instagram.com/mrunank_pawar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/MrunankPawar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
-[![Peerlist](https://github-readme-badge.peerlist.io/api/mrunank)](https://peerlist.io/mrunank)
 
 ---
 
