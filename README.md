@@ -10,7 +10,7 @@ Over the past few years, I’ve developed a variety of **social AR experiences**
 
 - 🎓 M.S. in Computer Science, Santa Clara University
 - 💼 Current: DevRel Engineer @ [Descope](https://descope.com)  
-- 🚀 Founder & Community Lead at [TechThrusters](http://techthrusters.org)  
+- 🚀 Building [TechThrusters](http://techthrusters.org)  
 - 🛠️ Interests: Product, Engineering, AR/VR, DevTools, Open Source  
 - ✉️ Reach me at: [mrunankpawar05@gmail.com](mailto:mrunankpawar05@gmail.com)
 
