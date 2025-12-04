@@ -16,7 +16,7 @@ Over the past few years, I’ve developed a variety of **social AR experiences**
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's connect
 
 <p align="left">
   <a href="https://github.com/mrunankpawar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
@@ -24,18 +24,6 @@ Over the past few years, I’ve developed a variety of **social AR experiences**
   <a href="https://www.instagram.com/mrunank_pawar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/MrunankPawar"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/mrunankpawar">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunankpawar&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="Mrunank's GitHub Stats" />
-</a>
-
-<a href="https://github.com/mrunankpawar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunankpawar&theme=github-dark&hide_border=true" alt="Mrunank's GitHub Streak" />
-</a>
 
 ---
 
